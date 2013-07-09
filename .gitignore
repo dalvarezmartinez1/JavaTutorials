@@ -1,5 +1,4 @@
 #Ignore temporary files
 *~
-#Ignore the bin directory and all its subfiles and subdirs, note the
-#trailing "/"
+#Ignore the bin directory anywhere in the hierarchy
 */bin/*
